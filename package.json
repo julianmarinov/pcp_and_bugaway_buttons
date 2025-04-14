@@ -1,8 +1,8 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "pcp_and_bugaway_buttons",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "pcp-bg button snippets.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
