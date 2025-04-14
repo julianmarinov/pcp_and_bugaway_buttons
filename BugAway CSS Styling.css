@@ -1,0 +1,24 @@
+
+/* Rotatein Buy Now Button */
+.rotating-button {
+    /* Basic styling */
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px 20px;
+    background-color: #FFD300; /* Bright yellow */
+    border: 2px solid #000;   /* Black border */
+    border-radius: 4px;
+    color: #000;              /* Black text */
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+    /* slight letter spacing */
+    letter-spacing: 0.5px;
+
+}
+
+.rotating-button:hover {
+    color: #000;              /* Black text */
+}
